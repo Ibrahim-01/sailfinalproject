@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 ## Hosted link: https://medicare-smoky.vercel.app/
+## Presentation link: https://docs.google.com/presentation/d/1X-BqlnGasum3I6SYO-xWFOQuQtWcknGfutsviQZirfM/edit#slide=id.p2
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
